@@ -6,6 +6,6 @@ Meu nome é Isabela, tenho 23 anos e sou estudante de Engenharia da Computação
 - 📚 Machine learning
 - 📲 Android development
 - 📊 Data science
-- PT-BR🇧🇷 ENG🇺🇸🇬🇧 OK! CHN🇨🇳 KOR🇰🇷 in progress..
+- PT-BR 🇧🇷 ENG 🇺🇸 OK! CHN 🇨🇳 KOR 🇰🇷 in progress..
 
 
